@@ -1,0 +1,14 @@
+
+V	java:S125
+"<This block of commented-out lines of code should be removed.(Ì•™…øÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(ŒÎ¾Ñúÿÿÿÿ8¬‰É‡Ê0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´¤‘Ğ
+V	java:S125"<This block of commented-out lines of code should be removed.(¦Æ—Ãøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(è´ÑĞüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±è‘Ÿşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(üéÂàıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±‹Àôüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Êîš
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ø–¬÷ùÿÿÿÿ
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8°‰É‡Ê0
